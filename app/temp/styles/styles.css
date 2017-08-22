@@ -603,8 +603,9 @@ img{
 	}
 
 .headline{
-	font-weight: 300;
+	
 	font-size: 1.9rem;
+	font-weight: 300;
 	color: #2f5572;
 	
 }
@@ -643,11 +644,11 @@ img{
 	}
 
 .headline--light{
-		font-weight: 100;
+		font-weight: lighter;
 	}
 
 .headline strong{
-		font-weight: 400;
+		font-weight: bold;
 	}
 
 .headline--b-margin-small{
