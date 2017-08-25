@@ -19,15 +19,15 @@
 	}
 	&__medium-4--larger{
 		
-		width: 33%;
+		width: 37%;
 	}
 	&__medium-8{
 		float: left;
-		width: 66.66%;
+		width: 63%;
 	}
 	&__medium-8--smaller{
 		
-		width: 60%;
+		width: 63%;
 	}
 	}
 }
