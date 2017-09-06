@@ -70,6 +70,9 @@
 var $ = __webpack_require__(1);
 var Person = __webpack_require__(2);
 
+
+alert("testin");
+
 var john = new Person("John Doe", "Blue");
 john.greet();
 
@@ -77,7 +80,7 @@ var jane = new Person("Jane Smith", "Green");
 jane.greet();
 
 
-$("h1").remove();
+
 
 /***/ }),
 /* 1 */

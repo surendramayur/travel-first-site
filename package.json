@@ -17,6 +17,7 @@
     "postcss-hexrgba": "^1.0.0",
     "postcss-import": "^10.0.0",
     "postcss-mixins": "^6.1.0",
-    "postcss-simple-vars": "^4.0.0"
+    "postcss-simple-vars": "^4.0.0",
+    "webpack": "^3.5.5"
   }
 }
