@@ -35,7 +35,7 @@ gulp.task('watch', function(){
  
  
  gulp.task('scriptsRefresh', ['scripts'], function(){
-	 //gulp.start('scripts');
+	 
 	 browserSync.reload();
  });
  
