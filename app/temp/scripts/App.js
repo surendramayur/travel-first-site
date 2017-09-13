@@ -11284,7 +11284,7 @@ var StickyHeader = function () {
 	_createClass(StickyHeader, [{
 		key: 'refreshWaypoints',
 		value: function refreshWaypoints() {
-			this.lazyImages.load(function () {
+			this.lazyImages.trigger('load', function () {
 				Waypoint.refreshAll();
 			});
 		}
